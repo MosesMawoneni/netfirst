@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\C# PROGRAMMS\project_one\mosesmaoone\bin\Debug\net9.0\mosesmaoone.exe
+C:\Users\HP\Desktop\C# PROGRAMMS\project_one\mosesmaoone\bin\Debug\net9.0\mosesmaoone.deps.json
+C:\Users\HP\Desktop\C# PROGRAMMS\project_one\mosesmaoone\bin\Debug\net9.0\mosesmaoone.runtimeconfig.json
+C:\Users\HP\Desktop\C# PROGRAMMS\project_one\mosesmaoone\bin\Debug\net9.0\mosesmaoone.dll
+C:\Users\HP\Desktop\C# PROGRAMMS\project_one\mosesmaoone\bin\Debug\net9.0\mosesmaoone.pdb
+C:\Users\HP\Desktop\C# PROGRAMMS\project_one\mosesmaoone\obj\Debug\net9.0\mosesmaoone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C# PROGRAMMS\project_one\mosesmaoone\obj\Debug\net9.0\mosesmaoone.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C# PROGRAMMS\project_one\mosesmaoone\obj\Debug\net9.0\mosesmaoone.AssemblyInfo.cs
+C:\Users\HP\Desktop\C# PROGRAMMS\project_one\mosesmaoone\obj\Debug\net9.0\mosesmaoone.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# PROGRAMMS\project_one\mosesmaoone\obj\Debug\net9.0\mosesmaoone.dll
+C:\Users\HP\Desktop\C# PROGRAMMS\project_one\mosesmaoone\obj\Debug\net9.0\refint\mosesmaoone.dll
+C:\Users\HP\Desktop\C# PROGRAMMS\project_one\mosesmaoone\obj\Debug\net9.0\mosesmaoone.pdb
+C:\Users\HP\Desktop\C# PROGRAMMS\project_one\mosesmaoone\obj\Debug\net9.0\mosesmaoone.genruntimeconfig.cache
+C:\Users\HP\Desktop\C# PROGRAMMS\project_one\mosesmaoone\obj\Debug\net9.0\ref\mosesmaoone.dll
