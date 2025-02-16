@@ -12,3 +12,4 @@ C:\Users\HP\Desktop\C# PROGRAMMS\project_one\mosesmaoone\obj\Debug\net9.0\refint
 C:\Users\HP\Desktop\C# PROGRAMMS\project_one\mosesmaoone\obj\Debug\net9.0\mosesmaoone.pdb
 C:\Users\HP\Desktop\C# PROGRAMMS\project_one\mosesmaoone\obj\Debug\net9.0\mosesmaoone.genruntimeconfig.cache
 C:\Users\HP\Desktop\C# PROGRAMMS\project_one\mosesmaoone\obj\Debug\net9.0\ref\mosesmaoone.dll
+C:\Users\HP\Desktop\C# PROGRAMMS\project_one\mosesmaoone\obj\Debug\net9.0\mosesmaoone.sourcelink.json
